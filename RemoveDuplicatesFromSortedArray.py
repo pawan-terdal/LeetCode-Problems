@@ -13,7 +13,7 @@ class Solution:
                 pointer+=1
         return left
         
-        /* Keep two pointer, one to store where to put the new value(left) and one more to parse the array(pointer) */
+        # Keep two pointer, one to store where to put the new value(left) and one more to parse the array(pointer)
         
         
 
